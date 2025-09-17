@@ -1,4 +1,4 @@
-# eBook Landing
+# Ebook Landing
 
 This repository contains the **eBook Landing** website. It’s a clean, modern landing page designed for promoting an eBook.  
 
